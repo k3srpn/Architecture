@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T09:47:57.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-StR1vDu4KhBRqCiTMza" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T09:49:50.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="rsedpeWDx7yhaAGW798g" version="22.1.18" type="github">
   <diagram name="Page-1" id="52a04d89-c75d-2922-d76d-85b35f80e030">
     <mxGraphModel dx="1247" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="none" math="0" shadow="0">
       <root>
@@ -200,9 +200,6 @@
         </mxCell>
         <mxCell id="e2xfSPb0T8YYYIXP3AMZ-111" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;주문내역조회&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="750" y="450" width="70" height="52.03" as="geometry" />
-        </mxCell>
-        <mxCell id="e2xfSPb0T8YYYIXP3AMZ-112" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;키트&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="288.01" width="70" height="52.03" as="geometry" />
         </mxCell>
         <mxCell id="e2xfSPb0T8YYYIXP3AMZ-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="e2xfSPb0T8YYYIXP3AMZ-116" target="e2xfSPb0T8YYYIXP3AMZ-111">
           <mxGeometry relative="1" as="geometry" />
