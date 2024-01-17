@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T07:15:17.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="UW52WDoWo2MsAHS7-myX" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T07:18:58.201Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="yeJhuiWbPH8E28m21cLv" version="22.1.20" type="github">
   <diagram name="Page-1" id="52a04d89-c75d-2922-d76d-85b35f80e030">
-    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,8 +116,18 @@
         <mxCell id="e2xfSPb0T8YYYIXP3AMZ-51" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;발급된검사권&lt;br&gt;&lt;/font&gt;" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;shape=mxgraph.ios7ui.horLines;" parent="1" vertex="1">
           <mxGeometry x="1050" y="490" width="70" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="qD-0tBkQnBFQ0dMMJoZ8-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e2xfSPb0T8YYYIXP3AMZ-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="835" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qD-0tBkQnBFQ0dMMJoZ8-20" value="분석결과URL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qD-0tBkQnBFQ0dMMJoZ8-19">
+          <mxGeometry x="-0.0088" y="4" relative="1" as="geometry">
+            <mxPoint x="16" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="e2xfSPb0T8YYYIXP3AMZ-55" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;검사결과조회&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="740" y="720" width="70" height="50" as="geometry" />
+          <mxGeometry x="800" y="810" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e2xfSPb0T8YYYIXP3AMZ-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="e2xfSPb0T8YYYIXP3AMZ-62" target="e2xfSPb0T8YYYIXP3AMZ-63" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -140,9 +150,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e2xfSPb0T8YYYIXP3AMZ-69" value="&lt;font size=&quot;1&quot;&gt;상품&lt;/font&gt;" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;shape=mxgraph.ios7ui.horLines;" parent="1" vertex="1">
-          <mxGeometry x="860" y="495" width="70" height="20" as="geometry" />
+          <mxGeometry x="860" y="450" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="e2xfSPb0T8YYYIXP3AMZ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.527;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" parent="1" source="e2xfSPb0T8YYYIXP3AMZ-63" target="e2xfSPb0T8YYYIXP3AMZ-69" edge="1">
+        <mxCell id="e2xfSPb0T8YYYIXP3AMZ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.014;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" parent="1" source="e2xfSPb0T8YYYIXP3AMZ-63" target="e2xfSPb0T8YYYIXP3AMZ-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e2xfSPb0T8YYYIXP3AMZ-71" value="신규상품정보" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" parent="e2xfSPb0T8YYYIXP3AMZ-70" vertex="1" connectable="0">
@@ -270,12 +280,14 @@
         <mxCell id="qD-0tBkQnBFQ0dMMJoZ8-6" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;유전자정보&lt;br&gt;업데이트&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="900" y="620" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qD-0tBkQnBFQ0dMMJoZ8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.529;entryY=1.2;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="qD-0tBkQnBFQ0dMMJoZ8-6" target="e2xfSPb0T8YYYIXP3AMZ-66">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qD-0tBkQnBFQ0dMMJoZ8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="qD-0tBkQnBFQ0dMMJoZ8-6" target="qD-0tBkQnBFQ0dMMJoZ8-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="630" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qD-0tBkQnBFQ0dMMJoZ8-13" value="신규유전자정보" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qD-0tBkQnBFQ0dMMJoZ8-12">
           <mxGeometry x="-0.0209" y="-12" relative="1" as="geometry">
-            <mxPoint x="27" y="7" as="offset" />
+            <mxPoint x="-6" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qD-0tBkQnBFQ0dMMJoZ8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="qD-0tBkQnBFQ0dMMJoZ8-6" target="e2xfSPb0T8YYYIXP3AMZ-51">
@@ -285,6 +297,9 @@
           <mxGeometry x="0.1784" y="-25" relative="1" as="geometry">
             <mxPoint x="-11" y="31" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qD-0tBkQnBFQ0dMMJoZ8-17" value="유전자정보변경이력" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;shape=mxgraph.ios7ui.horLines;" vertex="1" parent="1">
+          <mxGeometry x="790" y="680" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
